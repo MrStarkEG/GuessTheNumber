@@ -40,6 +40,7 @@ const CHECK = checker.addEventListener('click', function () {
       styleOfTheMid.textContent = theRealNumber;
       styleOfTheMid.style['width'] = '25rem';
       styleOfTheMid.style['border'] = '2px solid grey';
+      checker.disabled = true;
     } else if (theEntryValue > theRealNumber) {
       theResult.textContent = 'Too High↗️';
       scoreOnSite.textContent--;
