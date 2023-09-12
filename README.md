@@ -1,6 +1,6 @@
 # GuessTheNumber Game
 
-This game is a CHALLENGE part of an educational course which I enrolled into.
+This game is a CHALLENGING part of an educational course which I enrolled into.
 
 ## _A quick look_
 - you just need to enter a number between 1-20 and that's it !
