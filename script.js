@@ -11,6 +11,8 @@
 
 // you can use your own --> https://prettier.io/docs/en/options
 
+// gotta embrace the dryCodePriciple later
+
 let theEntry = document.querySelector('.guess');
 let theResult = document.querySelector('.message');
 const BGCOLOR = document.querySelector('body').style;
