@@ -1,6 +1,15 @@
 # GuessTheNumber Game
 
 This game is a CHALLENGING part of an educational course which I enrolled into.
+Here is a [Live Demo](https://mrstarkeg.github.io/GuessTheNumber/) to try it, ENJOY!
+
+## features
+- Created by Html, CSS and JavaScript.
+- it is just for educational purpose so don't get ur hopes high 👀.  
+
+## Deployment and contact
+Deployed by [Github](https;//github.com).
+You can contact me at [@MrStarkEG](https://t.me/MrStarkEG).
 
 ## _A quick look_
 - you just need to enter a number between 1-20 and that's it !
